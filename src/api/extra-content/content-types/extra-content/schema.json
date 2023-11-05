@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "extra_contents",
+  "info": {
+    "singularName": "extra-content",
+    "pluralName": "extra-contents",
+    "displayName": "Extra Content",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "aboutUs": {
+      "type": "richtext"
+    },
+    "termsConditions": {
+      "type": "richtext"
+    },
+    "privacyPolicy": {
+      "type": "richtext"
+    }
+  }
+}
